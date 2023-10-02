@@ -17,6 +17,6 @@ gantt
     Task11    :a11,after a9 , 25d
 ```
 # PERT圖
-
+![NKUST](Pert.jpg "Pert")
 
 # 關鍵路徑
